@@ -1,0 +1,20 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '11.0'
+
+target 'Cosmostation' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+    pod 'BinanceChain', :git => 'https://github.com/cosmostation/swift-sdk.git'
+    pod 'WalletConnect', git: 'https://github.com/WalletConnect/swift-walletconnect-lib', branch: 'master'
+    pod 'AlamofireImage'
+    pod 'SQLite.swift'
+    pod 'SwiftKeychainWrapper'
+    pod 'Toast-Swift'
+    pod 'Floaty'
+    pod 'DropDown'
+    pod 'QRCode'
+    pod 'Firebase/Core'
+    pod 'Firebase/Messaging'
+    pod 'NotificationBannerSwift'
+    pod 'BitcoinKit', :git => 'https://github.com/zxxTiny/BitcoinKit.git'
+end

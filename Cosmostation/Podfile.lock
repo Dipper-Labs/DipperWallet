@@ -1,0 +1,252 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireImage (3.6.0):
+    - Alamofire (~> 4.9)
+  - BinanceChain (1.0.0-beta):
+    - BinanceChain/Core (= 1.0.0-beta)
+  - BinanceChain/Core (1.0.0-beta):
+    - Alamofire (~> 4.8)
+    - BinanceChain/Libraries
+    - BinanceChain/Protobuf
+    - BinanceChain/Util
+    - HDWalletKit (~> 0.2.7)
+    - Starscream (~> 3.1)
+    - SwiftDate (~> 6.0.1)
+    - SwiftProtobuf (~> 1.4)
+    - SwiftyJSON (~> 4.3)
+    - XCGLogger (~> 7.0)
+  - BinanceChain/Libraries (1.0.0-beta)
+  - BinanceChain/Protobuf (1.0.0-beta)
+  - BinanceChain/Util (1.0.0-beta)
+  - BitcoinKit (1.1.0)
+  - CryptoSwift (0.15.0)
+  - DropDown (2.3.13)
+  - Firebase/Core (7.1.0):
+    - Firebase/CoreOnly
+    - FirebaseAnalytics (= 7.1.0)
+  - Firebase/CoreOnly (7.1.0):
+    - FirebaseCore (= 7.1.0)
+  - Firebase/Messaging (7.1.0):
+    - Firebase/CoreOnly
+    - FirebaseMessaging (~> 7.1.0)
+  - FirebaseAnalytics (7.1.0):
+    - FirebaseCore (~> 7.0)
+    - FirebaseInstallations (~> 7.0)
+    - GoogleAppMeasurement (= 7.1.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.0)
+    - GoogleUtilities/MethodSwizzler (~> 7.0)
+    - GoogleUtilities/Network (~> 7.0)
+    - "GoogleUtilities/NSData+zlib (~> 7.0)"
+    - nanopb (~> 2.30906.0)
+  - FirebaseCore (7.1.0):
+    - FirebaseCoreDiagnostics (~> 7.0)
+    - GoogleUtilities/Environment (~> 7.0)
+    - GoogleUtilities/Logger (~> 7.0)
+  - FirebaseCoreDiagnostics (7.1.0):
+    - GoogleDataTransport (~> 8.0)
+    - GoogleUtilities/Environment (~> 7.0)
+    - GoogleUtilities/Logger (~> 7.0)
+    - nanopb (~> 2.30906.0)
+  - FirebaseInstallations (7.1.0):
+    - FirebaseCore (~> 7.0)
+    - GoogleUtilities/Environment (~> 7.0)
+    - GoogleUtilities/UserDefaults (~> 7.0)
+    - PromisesObjC (~> 1.2)
+  - FirebaseInstanceID (7.1.0):
+    - FirebaseCore (~> 7.0)
+    - FirebaseInstallations (~> 7.0)
+    - GoogleUtilities/Environment (~> 7.0)
+    - GoogleUtilities/UserDefaults (~> 7.0)
+  - FirebaseMessaging (7.1.0):
+    - FirebaseCore (~> 7.0)
+    - FirebaseInstanceID (~> 7.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.0)
+    - GoogleUtilities/Environment (~> 7.0)
+    - GoogleUtilities/Reachability (~> 7.0)
+    - GoogleUtilities/UserDefaults (~> 7.0)
+  - Floaty (4.2.0)
+  - GoogleAppMeasurement (7.1.0):
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.0)
+    - GoogleUtilities/MethodSwizzler (~> 7.0)
+    - GoogleUtilities/Network (~> 7.0)
+    - "GoogleUtilities/NSData+zlib (~> 7.0)"
+    - nanopb (~> 2.30906.0)
+  - GoogleDataTransport (8.0.1):
+    - nanopb (~> 2.30906.0)
+  - GoogleUtilities/AppDelegateSwizzler (7.1.0):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+  - GoogleUtilities/Environment (7.1.0):
+    - PromisesObjC (~> 1.2)
+  - GoogleUtilities/Logger (7.1.0):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/MethodSwizzler (7.1.0):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/Network (7.1.0):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (7.1.0)"
+  - GoogleUtilities/Reachability (7.1.0):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/UserDefaults (7.1.0):
+    - GoogleUtilities/Logger
+  - HDWalletKit (0.2.8):
+    - CryptoSwift (~> 0.12)
+    - secp256k1.swift (~> 0.1.4)
+  - MarqueeLabel (4.0.5)
+  - nanopb (2.30906.0):
+    - nanopb/decode (= 2.30906.0)
+    - nanopb/encode (= 2.30906.0)
+  - nanopb/decode (2.30906.0)
+  - nanopb/encode (2.30906.0)
+  - NotificationBannerSwift (3.0.2):
+    - MarqueeLabel (~> 4.0.0)
+    - SnapKit (~> 5.0.0)
+  - ObjcExceptionBridging (1.0.1):
+    - ObjcExceptionBridging/ObjcExceptionBridging (= 1.0.1)
+  - ObjcExceptionBridging/ObjcExceptionBridging (1.0.1)
+  - PromiseKit (6.13.1):
+    - PromiseKit/CorePromise (= 6.13.1)
+    - PromiseKit/Foundation (= 6.13.1)
+    - PromiseKit/UIKit (= 6.13.1)
+  - PromiseKit/CorePromise (6.13.1)
+  - PromiseKit/Foundation (6.13.1):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.13.1):
+    - PromiseKit/CorePromise
+  - PromisesObjC (1.2.11)
+  - QRCode (2.0)
+  - secp256k1.swift (0.1.4)
+  - SnapKit (5.0.1)
+  - SQLite.swift (0.12.2):
+    - SQLite.swift/standard (= 0.12.2)
+  - SQLite.swift/standard (0.12.2)
+  - Starscream (3.1.1)
+  - SwiftDate (6.0.3)
+  - SwiftKeychainWrapper (4.0.1)
+  - SwiftProtobuf (1.13.0)
+  - SwiftyJSON (4.3.0)
+  - Toast-Swift (5.0.1)
+  - WalletConnect (0.1.0):
+    - CryptoSwift
+    - PromiseKit
+    - Starscream
+  - XCGLogger (7.0.1):
+    - XCGLogger/Core (= 7.0.1)
+  - XCGLogger/Core (7.0.1):
+    - ObjcExceptionBridging
+
+DEPENDENCIES:
+  - AlamofireImage
+  - BinanceChain (from `https://github.com/cosmostation/swift-sdk.git`)
+  - BitcoinKit (from `https://github.com/zxxTiny/BitcoinKit.git`)
+  - DropDown
+  - Firebase/Core
+  - Firebase/Messaging
+  - Floaty
+  - NotificationBannerSwift
+  - QRCode
+  - SQLite.swift
+  - SwiftKeychainWrapper
+  - Toast-Swift
+  - WalletConnect (from `https://github.com/WalletConnect/swift-walletconnect-lib`, branch `master`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - AlamofireImage
+    - CryptoSwift
+    - DropDown
+    - Firebase
+    - FirebaseAnalytics
+    - FirebaseCore
+    - FirebaseCoreDiagnostics
+    - FirebaseInstallations
+    - FirebaseInstanceID
+    - FirebaseMessaging
+    - Floaty
+    - GoogleAppMeasurement
+    - GoogleDataTransport
+    - GoogleUtilities
+    - HDWalletKit
+    - MarqueeLabel
+    - nanopb
+    - NotificationBannerSwift
+    - ObjcExceptionBridging
+    - PromiseKit
+    - PromisesObjC
+    - QRCode
+    - secp256k1.swift
+    - SnapKit
+    - SQLite.swift
+    - Starscream
+    - SwiftDate
+    - SwiftKeychainWrapper
+    - SwiftProtobuf
+    - SwiftyJSON
+    - Toast-Swift
+    - XCGLogger
+
+EXTERNAL SOURCES:
+  BinanceChain:
+    :git: https://github.com/cosmostation/swift-sdk.git
+  BitcoinKit:
+    :git: https://github.com/zxxTiny/BitcoinKit.git
+  WalletConnect:
+    :branch: master
+    :git: https://github.com/WalletConnect/swift-walletconnect-lib
+
+CHECKOUT OPTIONS:
+  BinanceChain:
+    :commit: 8f448775a6b233679e97853291953d700097464c
+    :git: https://github.com/cosmostation/swift-sdk.git
+  BitcoinKit:
+    :commit: 3e0f2103649a1eb205d549cd5c6b4e84547f309d
+    :git: https://github.com/zxxTiny/BitcoinKit.git
+  WalletConnect:
+    :commit: 4204495771bc5eaee45d7381f0c71de1a65081a0
+    :git: https://github.com/WalletConnect/swift-walletconnect-lib
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireImage: be9963c6582d68b39e89191f64c82a7d7bf40fdd
+  BinanceChain: a80213ab0252f2152c2068b279697935497cb053
+  BitcoinKit: a8c198d2a57caf64dc43271901f8c5a2309aced2
+  CryptoSwift: 769f58a9e89f64e8796c2e59ce5f002dc81a2438
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  Firebase: 78e8dd2e39d653de6270432ad84fe8b59f7bf4e8
+  FirebaseAnalytics: 7f165a56dea86ddd5b8ce02af3bee982c683405c
+  FirebaseCore: 20046127eef0fcb8fa25df7fc12f7b97d4e48611
+  FirebaseCoreDiagnostics: 872cdb9b749b23346dddd5c1014d1babd2257de3
+  FirebaseInstallations: 3de38553e86171b5f81d83cdeef63473d37bfdb0
+  FirebaseInstanceID: 61e8d10a4192a582c6239378169d10e504ca8d91
+  FirebaseMessaging: 076054895c9260f82c7304cc7709dbf19b8f3e4a
+  Floaty: e2bd5a0f6f7f70899e26ff2da31081c8bee8d1b0
+  GoogleAppMeasurement: 89e1a64593f968713b0506ba1b53b38a154bf9a5
+  GoogleDataTransport: e4085e6762f36a6141738f46b0153473ce57fb18
+  GoogleUtilities: f734da554aade8cc7928a31c2f3311897933a1bd
+  HDWalletKit: f0268857289221d4d6c2041d43ee78f1e84fc8e5
+  MarqueeLabel: 00cc0bcd087111dca575878b3531af980559707d
+  nanopb: 1bf24dd71191072e120b83dd02d08f3da0d65e53
+  NotificationBannerSwift: 713e20f21b6105f4a36a00e5d9fa414a930d3d8e
+  ObjcExceptionBridging: c30e00eb3700467e695faeea30e26e18bd445001
+  PromiseKit: 28fda91c973cc377875d8c0ea4f973013c05b6db
+  PromisesObjC: 8c196f5a328c2cba3e74624585467a557dcb482f
+  QRCode: f98a1886c8f37523704a7512a4c0cd45b34c18a4
+  secp256k1.swift: a7e7a214f6db6ce5db32cc6b2b45e5c4dd633634
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SQLite.swift: d2b4642190917051ce6bd1d49aab565fe794eea3
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+  SwiftDate: 8d4f14bf1ef68e95094511504856547bf9e3e1a6
+  SwiftKeychainWrapper: 807ba1d63c33a7d0613288512399cd1eda1e470c
+  SwiftProtobuf: fd4693388a96c8c2df35d3b063272b0e7c499d00
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+  WalletConnect: 0b21907c54b4bb324bf402dd14954c60a290ad36
+  XCGLogger: 1943831ef907df55108b0b18657953f868de973b
+
+PODFILE CHECKSUM: 15bffaafded83f6062cecd7b036678c199d68a55
+
+COCOAPODS: 1.10.0

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>534506770421-15jtug8v0752i436e4i8tibfaq6hk023.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.534506770421-15jtug8v0752i436e4i8tibfaq6hk023</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCvzMEuxtjypuhwncFo1VJpi6TvkiPcGv0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>534506770421</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.luotianjia.app</string>
+	<key>PROJECT_ID</key>
+	<string>luojia-4fafb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>luojia-4fafb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:534506770421:ios:03bc27bfbeede33a6bdabc</string>
+	<key>DATABASE_URL</key>
+	<string>https://luojia-4fafb.firebaseio.com</string>
+</dict>
+</plist>
